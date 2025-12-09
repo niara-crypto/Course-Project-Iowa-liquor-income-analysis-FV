@@ -13,7 +13,7 @@ This repository contains the complete analytical workflow for a graduate-level d
 ## Decision-Maker Audience
 
 This project is designed for:
-- Iowa Department of Public Health  
+- Executive Director, Iowa Department of Public Health (Iowa), Mr. Larry Johnson 
 
 The objective is to inform:
 - Alcohol taxation strategy  

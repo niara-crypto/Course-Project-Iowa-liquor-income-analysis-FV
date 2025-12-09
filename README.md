@@ -95,6 +95,9 @@ Tableau/
 - **Ramzi Nia**
 
 ---
+## Version Control Reflection
+
+Our team collaborated using GitHub for version control. Initial challenges included merge conflicts and inconsistent file naming across local and remote repositories. These were resolved using structured folders, frequent commits, and clear division of responsibilities. GitHub enabled transparent collaboration, version tracking, and reproducibility of our workflow.
 
 ## Course Context
 

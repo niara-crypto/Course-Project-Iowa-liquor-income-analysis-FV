@@ -147,7 +147,7 @@ Per-capita liquor spending ranges from **$3.57** at the lower end of the distrib
 ## Visualization Insights
 
 ### Figure 1. Median Household Income vs Liquor Spending Per Capita  
-[Open](Tableau/Income%20Vs%20Dollar%20Per%20Capita.png)
+[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/income_vs_liquor_scatter.png)
 
 - Points appear near-randomly dispersed  
 - Regression line slopes slightly downward  
@@ -158,7 +158,7 @@ This figure visualizes the relationship between county-level median household in
 ---
 
 ### Figure 2. Income vs Total Liquor Sales  
-[Open](sql/Income_vs_Total_Liquor_Sales_SQL.png)
+[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/sql/Income_vs_Total_Liquor_Sales_SQL.png)
 
 A strong upward slope appears here, but this is:
 - Entirely driven by population size  
@@ -169,15 +169,15 @@ Once sales are normalized per capita, this relationship disappears.
 ---
 
 ### Figure 3. Distribution of Liquor Spending Per Capita  
-- Histogram: [Open](Tableau/Histogram%20-%20Per%20Capita%20Spending.png)  
-- Boxplot: [Open](Tableau/Boxplot%20-%20Per%20Capita%20Spending.png)  
+- Histogram: [Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Histogram%20-%20Per%20Capita%20Spending.png)  
+- Boxplot: [Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Boxplot%20-%20Per%20Capita%20Spending.png)  
 
 The distribution is right-skewed, with most counties clustered between **$30 and $80** per resident and a small number of extreme outliers exceeding **$150 per capita**.
 
 ---
 
 ### Figure 4. Correlation Matrix  
-[Open](python/correlation_matrix.png)
+[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/python/correlation_matrix.png)
 
 - Income vs Per Capita: r ≈ –0.11  
 - Population vs Total Sales: r ≈ 0.99  
@@ -188,14 +188,14 @@ This confirms that total sales are population-driven, not income-driven.
 ---
 
 ### Figure 5. Total Liquor Sales by County  
-[Open](Tableau/Total%20Sales%20by%20County.png)
+[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County.png)
 
 Liquor revenue is highly concentrated in Polk, Linn, Johnson, and Scott counties.
 
 ---
 
 ### Figure 6. Liquor Dollars Per Capita (Top 10)  
-[Open](Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County%20(Top%2010).png)
+[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County%20(Top%2010).png)
 
 These counties represent the highest alcohol-related behavioral risk zones in the state.
 
@@ -269,16 +269,65 @@ Polk, Linn, Johnson, and Scott counties should be prioritized for:
 - Retail compliance  
 - Distributor auditing  
 - Supply chain enforcement  
-- Revenue forecasting  
+- Revenue forecasting
+  
+
+---
+
+### First-Order Policy Effects
+
+- More efficient allocation of prevention funding  
+- Elimination of income-based misclassification of high-risk counties  
+- Improved targeting accuracy for addiction services  
+- Stronger alignment between policy tools and behavioral data  
+
+---
+
+### Second-Order Policy Effects
+
+- Reduction in long-term alcohol-related healthcare costs  
+- Lower incidence of alcohol-related crime and injury  
+- Improved labor productivity and workforce stability  
+- Stabilization of state liquor revenue without inequitable taxation  
+
+---
+
+### Benefits
+
+- Evidence-based targeting  
+- Reduced waste in prevention spending  
+- Higher return on public health investment  
+- Policy fairness across income groups  
+- Improved community health outcomes  
+
+---
+
+### Risks
+
+- Public resistance if high-consumption counties feel singled out  
+- Short-term revenue volatility in affected counties  
+- Community stigma  
+
+---
+
+### Risk Mitigation Strategies
+
+These risks can be mitigated through:
+
+- Transparent data communication  
+- Gradual implementation  
+- Community-based education programs  
 
 ---
 
 ### Final Executive Policy Conclusion
 
-Income is not a meaningful driver of liquor consumption behavior in Iowa.  
-Alcohol policy should be structured around **per-capita behavioral risk**, not income or revenue.
+Income is not a meaningful driver of liquor consumption behavior in Iowa.
 
-Uniform taxation combined with **geographically targeted public health intervention** represents the most efficient, equitable, and economically sound alcohol policy strategy for the State of Iowa.
+Alcohol policy should therefore be structured around observed **per-capita consumption intensity**—not income, and not total revenue.
+
+Uniform taxation combined with geographically targeted public health intervention in high-consumption counties represents the most efficient, equitable, and economically sound alcohol policy strategy for the State of Iowa.
+
 
 ---
 

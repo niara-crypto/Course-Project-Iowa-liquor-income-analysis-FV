@@ -182,7 +182,7 @@ Although the sign of the correlation is negative, the magnitude is so small that
 ## Visualization Insights
 
 ### Figure 1. Median Household Income vs Liquor Spending Per Capita  
-[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/income_vs_liquor_scatter.png) : 
+[Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/income_vs_liquor_scatter.png) : 
 
 <img width="418" height="314" alt="image" src="https://github.com/user-attachments/assets/5326b36b-3c7b-4ea2-a367-3ea0dfc28863" />
 
@@ -196,7 +196,7 @@ This figure visualizes the relationship between county-level median household in
 ---
 
 ### Figure 2. Income vs Total Liquor Sales  
-[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/sql/Income_vs_Total_Liquor_Sales_SQL.png) : 
+[Click here for a better view ](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/sql/Income_vs_Total_Liquor_Sales_SQL.png) : 
 
 <img width="468" height="345" alt="image" src="https://github.com/user-attachments/assets/e3cd9c40-fcd9-49bb-9279-0145b089e812" />
 
@@ -211,12 +211,12 @@ This visualization displays the relationship between median household income and
 ---
 
 ### Figure 3. Distribution of Liquor Spending Per Capita  
-- Histogram: [Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Histogram%20-%20Per%20Capita%20Spending.png)   :
+- Histogram: [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Histogram%20-%20Per%20Capita%20Spending.png)   :
 
 <img width="289" height="200" alt="image" src="https://github.com/user-attachments/assets/2c478a91-4d34-4272-a26b-d15b1605d289" />
 
   
-- Boxplot: [Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Boxplot%20-%20Per%20Capita%20Spending.png):
+- Boxplot: [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Boxplot%20-%20Per%20Capita%20Spending.png):
 
 <img width="149" height="247" alt="image" src="https://github.com/user-attachments/assets/e8990f0b-fed0-40d0-bd1c-fa18841fd6e9" />
 
@@ -227,7 +227,7 @@ Figure 3 presents the histogram and boxplot of liquor dollars per capita. The di
 ---
 
 ### Figure 4. Correlation Matrix  
-[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/python/correlation_matrix.png) : 
+[Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/python/correlation_matrix.png) : 
 
 <img width="252" height="210" alt="image" src="https://github.com/user-attachments/assets/6da00668-6926-44f2-bf13-a6bbffd07a93" />
 
@@ -241,7 +241,7 @@ Figure 4 presents the Python-generated correlation matrix quantifying relationsh
 ---
 
 ### Figure 5. Total Liquor Sales by County  
-[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County.png): 
+[Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County.png): 
 
 <img width="285" height="428" alt="image" src="https://github.com/user-attachments/assets/8979f23c-220d-43f8-aabd-5cd388afb532" />
 
@@ -251,7 +251,7 @@ Figure 5 shows the ranked distribution of total liquor sales across all Iowa cou
 ---
 
 ### Figure 6. Liquor Dollars Per Capita (Top 10)  
-[Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County%20(Top%2010).png) : 
+[Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County%20(Top%2010).png) : 
 
 <img width="468" height="119" alt="image" src="https://github.com/user-attachments/assets/cd4432f1-2a7f-482f-b6b4-a0629ecc57bf" />
 

@@ -1,4 +1,4 @@
-<img width="460" height="318" alt="image" src="https://github.com/user-attachments/assets/4ca98e45-c8b6-47d1-bf2b-14a36ee39aa6" /># Income and Liquor Spending Behavior Across Iowa Counties  
+# Income and Liquor Spending Behavior Across Iowa Counties  
 ## A Data-Driven Policy Analysis  
 **ADEC 7900 – Course Project Final Report**
 
@@ -230,8 +230,7 @@ Figure 3 presents the histogram and boxplot of liquor dollars per capita. The di
 ### Figure 4. Correlation Matrix  
 [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/python/correlation_matrix.png) : 
 
-<img width="361" height="599" alt="image" src="https://github.com/user-attachments/assets/c439bd19-8438-4f51-8d86-c2140ae7794f" />
-
+<img width="474" height="395" alt="image" src="https://github.com/user-attachments/assets/44d71b4d-9a37-4ee1-85c1-66274dff3c4f" />
 
 
 - Income vs Per Capita: r ≈ –0.11  

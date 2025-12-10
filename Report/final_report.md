@@ -213,12 +213,13 @@ This visualization displays the relationship between median household income and
 ### Figure 3. Distribution of Liquor Spending Per Capita  
 - Histogram: [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Histogram%20-%20Per%20Capita%20Spending.png)   :
 
-<img width="289" height="200" alt="image" src="https://github.com/user-attachments/assets/2c478a91-4d34-4272-a26b-d15b1605d289" />
+<img width="361" height="599" alt="image" src="https://github.com/user-attachments/assets/0ee1aa81-7f6d-4f7b-bdc6-4f09b452c802" />
+
 
   
 - Boxplot: [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Boxplot%20-%20Per%20Capita%20Spending.png):
 
-<img width="149" height="247" alt="image" src="https://github.com/user-attachments/assets/e8990f0b-fed0-40d0-bd1c-fa18841fd6e9" />
+<img width="474" height="395" alt="image" src="https://github.com/user-attachments/assets/233e14f4-9926-4dd9-a715-24d72c724845" />
 
 
 Figure 3 presents the histogram and boxplot of liquor dollars per capita. The distribution is right-skewed, with most counties clustered between approximately $30 and $80 per resident, and a small number of extreme outliers exceeding $150 per capita. The boxplot shows a median near $56, a compact interquartile range, and a small number of high-consumption outliers that drive the upper tail. This confirms that most Iowa counties exhibit moderate consumption levels, while only a few counties account for extreme per-capita spending. These high-spending counties are therefore the most relevant for targeted prevention and monitoring policies.
@@ -229,7 +230,8 @@ Figure 3 presents the histogram and boxplot of liquor dollars per capita. The di
 ### Figure 4. Correlation Matrix  
 [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/python/correlation_matrix.png) : 
 
-<img width="252" height="210" alt="image" src="https://github.com/user-attachments/assets/6da00668-6926-44f2-bf13-a6bbffd07a93" />
+<img width="460" height="318" alt="image" src="https://github.com/user-attachments/assets/9a3e3cc9-f8ea-4a15-a71a-d715c9e00978" />
+
 
 
 - Income vs Per Capita: r ≈ –0.11  

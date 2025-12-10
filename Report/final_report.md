@@ -1,4 +1,4 @@
-# Income and Liquor Spending Behavior Across Iowa Counties  
+<img width="460" height="318" alt="image" src="https://github.com/user-attachments/assets/4ca98e45-c8b6-47d1-bf2b-14a36ee39aa6" /># Income and Liquor Spending Behavior Across Iowa Counties  
 ## A Data-Driven Policy Analysis  
 **ADEC 7900 – Course Project Final Report**
 
@@ -184,7 +184,8 @@ Although the sign of the correlation is negative, the magnitude is so small that
 ### Figure 1. Median Household Income vs Liquor Spending Per Capita  
 [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/income_vs_liquor_scatter.png) : 
 
-<img width="418" height="314" alt="image" src="https://github.com/user-attachments/assets/5326b36b-3c7b-4ea2-a367-3ea0dfc28863" />
+
+<img width="467" height="350" alt="image" src="https://github.com/user-attachments/assets/f0e8ece3-4975-4d44-a9bb-360b48b87a30" />
 
 
 - Points appear near-randomly dispersed  
@@ -198,7 +199,7 @@ This figure visualizes the relationship between county-level median household in
 ### Figure 2. Income vs Total Liquor Sales  
 [Click here for a better view ](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/sql/Income_vs_Total_Liquor_Sales_SQL.png) : 
 
-<img width="468" height="345" alt="image" src="https://github.com/user-attachments/assets/e3cd9c40-fcd9-49bb-9279-0145b089e812" />
+<img width="498" height="367" alt="image" src="https://github.com/user-attachments/assets/56e41db4-bdee-4bfd-8be3-827bb1b343a7" />
 
 
 A strong upward slope appears here, but this is:
@@ -213,13 +214,12 @@ This visualization displays the relationship between median household income and
 ### Figure 3. Distribution of Liquor Spending Per Capita  
 - Histogram: [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Histogram%20-%20Per%20Capita%20Spending.png)   :
 
-<img width="361" height="599" alt="image" src="https://github.com/user-attachments/assets/0ee1aa81-7f6d-4f7b-bdc6-4f09b452c802" />
-
+<img width="460" height="318" alt="image" src="https://github.com/user-attachments/assets/66d3835c-c4e2-43f5-b8d8-778f8d53eb39" />
 
   
 - Boxplot: [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Boxplot%20-%20Per%20Capita%20Spending.png):
 
-<img width="474" height="395" alt="image" src="https://github.com/user-attachments/assets/233e14f4-9926-4dd9-a715-24d72c724845" />
+<img width="361" height="599" alt="image" src="https://github.com/user-attachments/assets/4e818e9c-566b-40e1-a8f4-b3194a96c91b" />
 
 
 Figure 3 presents the histogram and boxplot of liquor dollars per capita. The distribution is right-skewed, with most counties clustered between approximately $30 and $80 per resident, and a small number of extreme outliers exceeding $150 per capita. The boxplot shows a median near $56, a compact interquartile range, and a small number of high-consumption outliers that drive the upper tail. This confirms that most Iowa counties exhibit moderate consumption levels, while only a few counties account for extreme per-capita spending. These high-spending counties are therefore the most relevant for targeted prevention and monitoring policies.
@@ -230,7 +230,7 @@ Figure 3 presents the histogram and boxplot of liquor dollars per capita. The di
 ### Figure 4. Correlation Matrix  
 [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/python/correlation_matrix.png) : 
 
-<img width="460" height="318" alt="image" src="https://github.com/user-attachments/assets/9a3e3cc9-f8ea-4a15-a71a-d715c9e00978" />
+<img width="361" height="599" alt="image" src="https://github.com/user-attachments/assets/c439bd19-8438-4f51-8d86-c2140ae7794f" />
 
 
 
@@ -245,7 +245,7 @@ Figure 4 presents the Python-generated correlation matrix quantifying relationsh
 ### Figure 5. Total Liquor Sales by County  
 [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County.png): 
 
-<img width="285" height="428" alt="image" src="https://github.com/user-attachments/assets/8979f23c-220d-43f8-aabd-5cd388afb532" />
+<img width="449" height="675" alt="image" src="https://github.com/user-attachments/assets/5a74f837-05ff-445c-952f-cde8f8a0c281" />
 
 
 Figure 5 shows the ranked distribution of total liquor sales across all Iowa counties. Sales are extremely concentrated in a small number of urban counties, led by Polk, Linn, Johnson, and Scott. These counties generate tens of millions of dollars annually, while many rural counties generate less than $2 million. This highlights the dominance of population size and commercial infrastructure in determining total revenue and explains why total sales alone cannot be used to infer individual consumption behavior.
@@ -255,7 +255,7 @@ Figure 5 shows the ranked distribution of total liquor sales across all Iowa cou
 ### Figure 6. Liquor Dollars Per Capita (Top 10)  
 [Click here for a better view](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/Liquor%20Dollars%20Per%20Capita%20by%20County%20(Top%2010).png) : 
 
-<img width="468" height="119" alt="image" src="https://github.com/user-attachments/assets/cd4432f1-2a7f-482f-b6b4-a0629ecc57bf" />
+<img width="616" height="195" alt="image" src="https://github.com/user-attachments/assets/dd8139dc-0718-4af5-b5e0-1819eb215a23" />
 
 
 Figure 6 ranks counties by per-capita liquor spending and presents a dramatically different pattern than total sales. Several smaller, less populous counties emerge among the top spenders per resident despite not being revenue leaders. This figure is policy-critical because it identifies counties with disproportionately high individual consumption, which are priority targets for education, prevention, and public health interventions. These locations represent the highest alcohol-related behavioral risk zones in the state.

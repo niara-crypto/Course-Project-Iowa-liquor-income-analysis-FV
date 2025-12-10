@@ -184,6 +184,9 @@ Although the sign of the correlation is negative, the magnitude is so small that
 ### Figure 1. Median Household Income vs Liquor Spending Per Capita  
 [Open](https://github.com/niara-crypto/Course-Project-Iowa-liquor-income-analysis-FV/blob/186611dacd2919a1c3354292c2d5cdbe4bcadd72/Tableau/income_vs_liquor_scatter.png)
 
+<img width="418" height="314" alt="image" src="https://github.com/user-attachments/assets/5326b36b-3c7b-4ea2-a367-3ea0dfc28863" />
+
+
 - Points appear near-randomly dispersed  
 - Regression line slopes slightly downward  
 - Confirms weak negative relationship (r ≈ –0.106)  

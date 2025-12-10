@@ -461,6 +461,11 @@ Alcohol policy should therefore be structured around observed **per-capita consu
 
 Uniform taxation combined with geographically targeted public health intervention in high-consumption counties represents the most efficient, equitable, and economically sound alcohol policy strategy for the State of Iowa.
 
+---
+
+### Version Control
+
+Our team collaborated using GitHub for version control. Initial challenges included merge conflicts and inconsistent file naming across local and remote repositories. These were resolved using structured folders, frequent commits, and clear division of responsibilities. GitHub enabled transparent collaboration, version tracking, and reproducibility of our workflow.
 
 ---
 

@@ -263,6 +263,11 @@ These additional variables would allow for causal modeling rather than simple co
 
 ### Advantages & Challenges of the Software Tools : 
 
+| Tool   | Advantages                                              | Challenges                                                     |
+|--------|----------------------------------------------------------|----------------------------------------------------------------|
+| SQL    | Excellent for large-scale aggregation and joins          | Limited visualization, less flexible transformation           |
+| R      | Powerful statistical tools and good for cleaning data    | Requires scripting fluency                                     |
+| Python | Best balance of modeling, automation, and visualization | File path management and environments can be complex           |
 
 
 Using all three tools allowed us to:
@@ -270,8 +275,6 @@ Using all three tools allowed us to:
 •	Cross-validate results,
 •	Leverage each platform’s strengths,
 •	And improve overall methodological robustness.
-
-
 
 ---
 
